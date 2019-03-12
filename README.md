@@ -1,0 +1,2 @@
+# konnichiwa
+hello by Japanese
